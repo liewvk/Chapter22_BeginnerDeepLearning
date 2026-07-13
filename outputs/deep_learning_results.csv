@@ -1,0 +1,9 @@
+StudyHours,Attendance,AssignmentScore,ActualResult,PredictedResult,PassProbability
+2,52,38,Fail,Fail,0.016
+10,98,96,Pass,Pass,1.0
+8,90,88,Pass,Pass,0.999
+10,96,92,Pass,Pass,1.0
+1,50,35,Fail,Fail,0.009
+9,95,90,Pass,Pass,1.0
+7,78,66,Pass,Pass,0.942
+4,66,55,Fail,Fail,0.14
